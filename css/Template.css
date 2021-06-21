@@ -115,6 +115,8 @@
 					  width: 35%;
 					  height:20%;
 					  border-radius: 150px;
+					  padding: 3px;
+					  border: 1.8px solid #e74c3c;
 }
 .testimonial{
 					  color: white;
